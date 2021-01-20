@@ -1,0 +1,19 @@
+{
+  "name": "node-learn-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumodada/node-demo.git"
+  },
+  "author": "jumodada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumodada/node-demo/issues"
+  },
+  "homepage": "https://github.com/jumodada/node-demo#readme"
+}
